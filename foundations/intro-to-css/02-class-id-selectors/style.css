@@ -1,0 +1,18 @@
+.odd {
+    background-color: lightpink;
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+.ft {
+    font-size: 24px;
+}
+
+#sec {
+    color: blue; font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
